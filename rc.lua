@@ -1,1 +1,0 @@
-/home/bcoulter/awesome/rc.lua
